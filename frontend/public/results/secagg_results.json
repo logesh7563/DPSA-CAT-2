@@ -1,0 +1,11 @@
+{
+  "num_clients": 4,
+  "model_parameters": 24709,
+  "model_bytes": 98836,
+  "max_difference_across_all_weights": 1.080334186553955e-06,
+  "mathematical_equivalence_passed": true,
+  "execution_time_plain_ms": 2.028,
+  "execution_time_secagg_ms": 20.135,
+  "server_side_privacy_guarantee": "Server strictly computes sum of masked vectors; zero individual weights exposed.",
+  "communication_overhead_ratio": 1.05
+}

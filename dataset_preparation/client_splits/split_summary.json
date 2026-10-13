@@ -1,0 +1,50 @@
+{
+  "Client_0": {
+    "name": "Client 0 (Web Application Gateway)",
+    "file": "client_0.csv",
+    "total_records": 9728,
+    "distribution": {
+      "Normal": 2689,
+      "DoS": 6925,
+      "Probe": 114,
+      "R2L": 0,
+      "U2R": 0
+    }
+  },
+  "Client_1": {
+    "name": "Client 1 (Edge Perimeter Router)",
+    "file": "client_1.csv",
+    "total_records": 4869,
+    "distribution": {
+      "Normal": 2690,
+      "DoS": 462,
+      "Probe": 1717,
+      "R2L": 0,
+      "U2R": 0
+    }
+  },
+  "Client_2": {
+    "name": "Client 2 (Internal Corporate LAN)",
+    "file": "client_2.csv",
+    "total_records": 4870,
+    "distribution": {
+      "Normal": 4707,
+      "DoS": 0,
+      "Probe": 0,
+      "R2L": 156,
+      "U2R": 7
+    }
+  },
+  "Client_3": {
+    "name": "Client 3 (Regional Branch Office)",
+    "file": "client_3.csv",
+    "total_records": 5725,
+    "distribution": {
+      "Normal": 3363,
+      "DoS": 1847,
+      "Probe": 458,
+      "R2L": 53,
+      "U2R": 4
+    }
+  }
+}
